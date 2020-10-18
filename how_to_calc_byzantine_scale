@@ -1,0 +1,4 @@
+The frequencies were calculated mathematically based on the intervals reported by the theorists of Byzantine music as seen at scales-byzantine-calc-(8ichoi).xlsx file .
+As you can see, Zo and Vu are different, who are always lower than the European on the diatonic scale. 
+so we create a special scale based on this and attach it to the file diatoniki-general.scl which you have to upload to the SCALA program.
+I also attach 1 file to diatoniki-general.kbm which matches the European keys of the classical octave to the corresponding notes of Byzantine.
